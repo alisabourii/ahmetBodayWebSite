@@ -62,7 +62,8 @@ color: white;
         margin-top: 40px;
         float: left;
         margin-left: 25%;
-        border-radius: 30px;}
+        border-radius: 30px;
+        padding-top: 2px;padding-left: 10px;padding-right: 10px;}
 .boxText2:hover{
         background-color: white;
         color: black;
@@ -74,7 +75,8 @@ color: white;
         margin-top: 40px;
         float: left;
         margin-left: 35%;
-        border-radius: 30px;}
+        border-radius: 30px;
+        padding-top: 2px;padding-left: 10px;padding-right: 10px;}
 .boxText3:hover{
         background-color: white;
         color: black;
